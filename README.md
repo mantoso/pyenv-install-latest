@@ -11,7 +11,7 @@ pyenv install-latest [--print] [<`pyenv install` options>] [<version-prefix>]
 ## Installation
 
 ```shell
-git clone https://github.com/mantoso/pyenv-install-latest.git ${HOME}/plugins/pyenv-install-latest
+git clone https://github.com/mantoso/pyenv-install-latest.git ${HOME}/.pyenv/plugins/pyenv-install-latest
 ```
 
 Or, if your `pyenv` is not installed in your home directory
